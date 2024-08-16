@@ -1,0 +1,100 @@
+{
+    "votosDistrito": {
+        "votosCandidatura": [
+            {
+                "nombre": "Maribel Guadalupe",
+                "apellidos": "Villaseñor Dávila",
+                "distritos": [
+                    {
+                        "pe": "P1",
+                        "total": "11,174"
+                    }
+                ],
+                "votos": "11,174",
+                "porcentaje": "06.6337%"
+            },
+            {
+                "nombre": "Josué",
+                "apellidos": "Lira Gil",
+                "distritos": [
+                    {
+                        "pe": "P2",
+                        "total": "6,853"
+                    }
+                ],
+                "votos": "6,853",
+                "porcentaje": "04.0684%"
+            },
+            {
+                "nombre": "Elia Nancy",
+                "apellidos": "Hernández Anaya",
+                "distritos": [
+                    {
+                        "pe": "P3",
+                        "total": "3,281"
+                    }
+                ],
+                "votos": "3,281",
+                "porcentaje": "01.9478%"
+            },
+            {
+                "nombre": "Laura Sandra",
+                "apellidos": "Morales Ruiz",
+                "distritos": [
+                    {
+                        "pe": "P4",
+                        "total": "1,010"
+                    },
+                    {
+                        "pe": "P5",
+                        "total": "3,719"
+                    },
+                    {
+                        "pe": "P6",
+                        "total": "14,220"
+                    }
+                ],
+                "votos": "40,142",
+                "porcentaje": "23.8314%"
+            },
+            {
+                "nombre": "Erika Vanessa",
+                "apellidos": "del Castillo Ibarra",
+                "distritos": [
+                    {
+                        "pe": "P7",
+                        "total": "3,929"
+                    },
+                    {
+                        "pe": "P8",
+                        "total": "4,449"
+                    },
+                    {
+                        "pe": "P9",
+                        "total": "85,917"
+                    }
+                ],
+                "votos": "100,861",
+                "porcentaje": "59.8791%"
+            }
+        ],
+        "resumenVotacion": { 
+			"acumulados":
+			{
+                "total": "4,281,452",
+				"porcentaje": "96.1114"
+			}, 
+			"noRegistradas":{
+				"total": "5,353",
+				"porcentaje": "00.1203"
+			}, 
+			"nulos":{
+                "total": "159,308",
+				"porcentaje": "03.5830"
+			}, 
+			"totalVotos": {
+				"total": "4,446,113"
+			}
+        }
+    }
+}

@@ -1,0 +1,215 @@
+[
+    {
+      "pe": [
+        {
+          "pe": "P1"
+        }
+      ],
+      "color": "#1D45A7",
+      "distritos": {
+        "numero": 5
+      },
+      "votos": {
+        "numero": "499,288",
+        "porcentaje": "01.1472%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P2"
+        }
+      ],
+      "color": "#4F944B",
+      "distritos": {
+        "numero": 1
+      },
+      "votos": {
+        "numero": "3,400,166",
+        "porcentaje": "07.8125%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P3"
+        }
+      ],
+      "color": "#E3C650",
+      "distritos": {
+        "numero": 0
+      },
+      "votos": {
+        "numero": "95,940",
+        "porcentaje": "00.2204%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P4"
+        }
+      ],
+      "color": "#AACC74",
+      "distritos": {
+        "numero": 0
+      },
+      "votos": {
+        "numero": "1,130,021",
+        "porcentaje": "02.5964%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P5"
+        }
+      ],
+      "color": "#D63F33",
+      "distritos": {
+        "numero": 0
+      },
+      "votos": {
+        "numero": "57,259",
+        "porcentaje": "00.1315%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P6"
+        }
+      ],
+      "color": "#E98932",
+      "distritos": {
+        "numero": 0
+      },
+      "votos": {
+        "numero": "196,973",
+        "porcentaje": "00.4525%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P7"
+        }
+      ],
+      "color": "#00A6B4",
+      "distritos": {
+        "numero": 0
+      },
+      "votos": {
+        "numero": "567,283",
+        "porcentaje": "24.9448%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P8"
+        }
+      ],
+      "color": "#A83A28",
+      "distritos": {
+        "numero": 8
+      },
+      "votos": {
+        "numero": "603,671",
+        "porcentaje": "01.3870%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P9"
+        }
+      ],
+      "color": "#5D2C7F",
+      "distritos": {
+        "numero": 0
+      },
+      "votos": {
+        "numero": "44,306",
+        "porcentaje": "00.1018%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P1"
+        },
+        {
+          "pe": "P3"
+        },
+        {
+          "pe": "P6"
+        }
+      ],
+      "color": "#21B487",
+      "distritos": {
+        "numero": 62
+      },
+      "votos": {
+        "numero": "11,313,890",
+        "porcentaje": "25.9960%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P2"
+        },
+        {
+          "pe": "P4"
+        },
+        {
+          "pe": "P7"
+        }
+      ],
+      "color": "#FFC151",
+      "distritos": {
+        "numero": 14
+      },
+      "votos": {
+        "numero": "5,215,898",
+        "porcentaje": "11.9846%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "P5"
+        },
+        {
+          "pe": "P8"
+        },
+        {
+          "pe": "P9"
+        }
+      ],
+      "color": "#1D45A7",
+      "distritos": {
+        "numero": 210
+      },
+      "votos": {
+        "numero": "18,220,501",
+        "porcentaje": "41.8654%"
+      }
+    },
+    {
+      "pe": [
+        {
+          "pe": "C1"
+        }
+      ],
+      "color": "#FB155B",
+      "distritos": {
+        "numero": 0
+      },
+      "votos": {
+        "numero": "403,108",
+        "porcentaje": "00.9262%"
+      }
+    }
+]

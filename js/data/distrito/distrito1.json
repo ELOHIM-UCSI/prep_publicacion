@@ -1,0 +1,247 @@
+{
+    "votosCandidatura": [
+        {
+            "nombre": "Maribel Guadalupe",
+            "apellidos": "Villaseñor Dávila",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P1",
+                    "total": "11,174"
+                }
+            ],
+            "votos": "11,174",
+            "porcentaje": "06.6337%"
+        },
+        {
+            "nombre": "Josué",
+            "apellidos": "Lira Gil",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P2",
+                    "total": "6,853"
+                }
+            ],
+            "votos": "6,853",
+            "porcentaje": "04.0684%"
+        },
+        {
+            "nombre": "Elia Nancy",
+            "apellidos": "Hernández Anaya",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P3",
+                    "total": "3,281"
+                }
+            ],
+            "votos": "3,281",
+            "porcentaje": "01.9478%"
+        },
+        {
+            "nombre": "Laura Sandra",
+            "apellidos": "Morales Ruiz",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P4",
+                    "total": "1,010"
+                },
+                {
+                    "pe": "P5",
+                    "total": "3,719"
+                },
+                {
+                    "pe": "P6",
+                    "total": "14,220"
+                }
+            ],
+            "votos": "40,142",
+            "porcentaje": "23.8314%"
+        },
+        {
+            "nombre": "Erika Vanessa",
+            "apellidos": "del Castillo Ibarra",
+            "ganador": true,
+            "distritos": [
+                {
+                    "pe": "P7",
+                    "total": "3,929"
+                },
+                {
+                    "pe": "P8",
+                    "total": "4,449"
+                },
+                {
+                    "pe": "P9",
+                    "total": "85,917"
+                }
+            ],
+            "votos": "100,861",
+            "porcentaje": "59.8791%"
+        }
+    ],
+    "resumenVotacion": { 
+        "acumulados":
+        {
+            "total": "162,311",
+            "porcentaje": "96.1114"
+        }, 
+        "noRegistradas":{
+            "total": "133",
+            "porcentaje": "00.0789"
+        }, 
+        "nulos":{
+            "total": "5,997",
+            "porcentaje": "03.5602"
+        }, 
+        "totalVotos": {
+            "total": "168,441",
+            "porcentaje": "100.0000"
+        }
+    },
+    "votosPPyCI": [
+        {
+            "partido": "P1",
+            "votosPartido": "11,174",
+            "votosCoalicion": "531",
+            "porcentaje": "06.6337%",
+            "totalVotos": "14,751"
+        },
+        {
+            "partido": "P2",
+            "votosPartido": "11,174",
+            "porcentaje": "04.0684%",
+            "totalVotos": "11,174"
+        },
+        {
+            "partido": "P3",
+            "votosPartido": "20,635",
+            "votosCoalicion": "584",
+            "porcentaje": "01.9478%",
+            "totalVotos": "21,219"
+        },
+        {
+            "partido": "P4",
+            "votosPartido": "6,853",
+            "porcentaje": "06.6337%",
+            "totalVotos": "6,853"
+        },
+        {
+            "partido": "P5",
+            "votosPartido": "4,871",
+            "votosCoalicion": "1,835",
+            "porcentaje": "04.0684%",
+            "totalVotos": "6,706"
+        },
+        {
+            "partido": "P6",
+            "votosPartido": "3,719",
+            "votosCoalicion": "453",
+            "porcentaje": "01.9478%",
+            "totalVotos": "4,172"
+        },
+        {
+            "partido": "P7",
+            "votosPartido": "3,281",
+            "votosCoalicion": "",
+            "porcentaje": "06.6337%",
+            "totalVotos": "3,281"
+        },
+        {
+            "partido": "P8",
+            "votosPartido": "85,917",
+            "votosCoalicion": "2,103",
+            "porcentaje": "04.0684%",
+            "totalVotos": "88,020"
+        },
+        {
+            "partido": "P9",
+            "votosPartido": "4,449",
+            "votosCoalicion": "1,686",
+            "porcentaje": "01.9478%",
+            "totalVotos": "6,135"
+        }
+    ],
+    "estadisticas": {
+        "actas": {
+            "capturadas": {
+                "total": "64",
+                "porcentaje": "100.0000"
+            },
+            "contabilizadas": {
+                "total": "56",
+                "porcentaje": "87.5000"
+            }, 
+            "esperadas":{
+                "total": "64",
+                "porcentaje": "100.0000"
+            }
+        },
+        "listaNominal": {
+            "actasContabilizadas" : "460,639",
+            "oficial": "738,485",
+            "porcentaje": "62.3762",
+            "color": "#D2127E"
+        }
+    },
+    "secciones": [
+        {
+            "seccion": 1,
+            "P1": "14,751",
+            "P2": "11,174",
+            "P3": "21,219",
+            "P4": "6,853",
+            "P5": "6,706",
+            "P6": "4,172",
+            "P7": "3,281",
+            "P8": "88,020",
+            "P9": "6,135",
+            "noReg": 0,
+            "nulos": 0
+        },
+        {
+            "seccion": 2,
+            "P1": "14,751",
+            "P2": "11,174",
+            "P3": "21,219",
+            "P4": "6,853",
+            "P5": "6,706",
+            "P6": "4,172",
+            "P7": "3,281",
+            "P8": "88,020",
+            "P9": "6,135",
+            "noReg": 0,
+            "nulos": 0
+        },
+        {
+            "seccion": 3,
+            "P1": "14,751",
+            "P2": "11,174",
+            "P3": "21,219",
+            "P4": "6,853",
+            "P5": "6,706",
+            "P6": "4,172",
+            "P7": "3,281",
+            "P8": "88,020",
+            "P9": "6,135",
+            "noReg": 0,
+            "nulos": 0
+        },
+        {
+            "seccion": 4,
+            "P1": "14,751",
+            "P2": "11,174",
+            "P3": "21,219",
+            "P4": "6,853",
+            "P5": "6,706",
+            "P6": "4,172",
+            "P7": "3,281",
+            "P8": "88,020",
+            "P9": "6,135",
+            "noReg": 0,
+            "nulos": 0
+        }
+    ]
+}

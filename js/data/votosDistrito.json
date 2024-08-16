@@ -1,0 +1,478 @@
+{
+    "circunscripciones": {
+        "circunscripcion": "Todas",
+        "avanceNacional": {
+            "capturadas": {
+                "total": "145,327",
+                "esperadas": "157,859",
+                "porcentaje": "98.3990"
+            },
+            "participacionCiudadana": {
+                "porcentaje": "63.1162"
+            },
+            "ultimoCorte": {
+                "fecha": "07 junio 2021",
+                "hora": "00:16"
+            }
+        },
+        "votosDistrito": [
+            {
+                "partido": 1.0,
+                "distritos": "5",
+                "votos": "499,288",
+                "porcentaje": "01.1472",
+                "ganador": false,
+                "color":"#1D45A7",
+                "partidos": [
+					{
+                        "idPartidos":"P1",
+                        "color":"#1D45A7" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "1",
+                "votos": "3,400,166",
+                "porcentaje": "07.8125",
+                "ganador": false, 
+                "color":"#4F944B",
+                "partidos": [
+                    {
+                        "idPartidos":"P2",
+                        "color":"#4F944B" 
+                    }
+                ] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "95,940",
+                "porcentaje": "00.2204",
+                "ganador": false, 
+                "color":"#E3C650",
+                "partidos": [
+					{
+                        "idPartidos":"P3",
+                        "color":"#E3C650" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "1,130,021",
+                "porcentaje": "02.5964",
+                "ganador": false, 
+                "color":"#AACC74",
+                "partidos": [
+					{
+                        "idPartidos":"P4",
+                        "color":"#AACC74" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "57,259",
+                "porcentaje": "00.1315",
+                "ganador": false,
+                "color":"#D63F33",
+                "partidos": [
+					{
+                        "idPartidos":"P5",
+                        "color":"#D63F33" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "196,973",
+                "porcentaje": "00.4525",
+                "ganador": false, 
+                "color":"#E98932",
+                "partidos": [
+					{
+                        "idPartidos":"P6",
+                        "color":"#E98932" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "567,283",
+                "porcentaje": "24.9448",
+                "ganador": false, 
+                "color":"#FBA715",
+                "partidos": [
+					{
+                        "idPartidos":"P7",
+                        "color":"#FBA715" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "8",
+                "votos": "603,671",
+                "porcentaje": "01.3870",
+                "ganador": false,
+                "color":"#9E0634", 
+                "partidos": [
+					{
+                        "idPartidos":"P8",
+                        "color":"#9E0634" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "44,306",
+                "porcentaje": "00.1018",
+                "ganador": false, 
+                "color":"#5D2C7F",
+                "partidos": [
+					{
+                        "idPartidos":"P9",
+                        "color":"#5D2C7F" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "62",
+                "votos": "11,313,890",
+                "porcentaje": "25.9960",
+                "ganador": false, 
+                "color":"#00A6B4",
+                "partidos": [
+					{
+                        "idPartidos":"P1",
+                        "color":"#00A6B4" 
+                    },
+                    {
+                        "idPartidos":"P3",
+                        "color":"#00A6B4" 
+                    },
+                    {
+                        "idPartidos":"P6",
+                        "color":"#00A6B4" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "14",
+                "votos": "5,215,898",
+                "porcentaje": "11.9846",
+                "ganador": false, 
+                "color":"#A83A28",
+                "partidos": [
+					{
+                        "idPartidos":"P2",
+                        "color":"#A83A28" 
+                    },
+                    {
+                        "idPartidos":"P4",
+                        "color":"#A83A28" 
+                    },
+                    {
+                        "idPartidos":"P6",
+                        "color":"#A83A28" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "210",
+                "votos": "18,220,501",
+                "porcentaje": "41.8654",
+                "ganador": true, 
+                "color":"#2980B9",
+                "partidos": [
+					{
+                        "idPartidos":"P7",
+                        "color":"#2980B9" 
+                    },
+                    {
+                        "idPartidos":"P8",
+                        "color":"#2980B9" 
+                    },
+                    {
+                        "idPartidos":"P9",
+                        "color":"#2980B9" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "403,108",
+                "porcentaje": "00.9262",
+                "ganador": false, 
+                "color":"#FB155B",
+                "partidos": [
+					{
+                        "idPartidos":"C1",
+                        "color":"#FB155B" 
+                    }
+				] 
+            }
+        ],
+        "resumenVotacion": { 
+			"acumulados":
+			{
+                "total": "41,748,301",
+				"porcentaje": "95.1114"
+			}, 
+			"noRegistradas":{
+				"total": "48,514",
+				"porcentaje": "00.1114"
+			}, 
+			"nulos":{
+                "total": "1,724,787",
+				"porcentaje": "03.9630"
+			}, 
+			"totalVotos": {
+				"total": "43,521,605"
+			}
+		},
+        "votosDistritoMapa": [
+            {
+                "partido": 1.0,
+                "distritos": "5",
+                "votos": "499,288",
+                "porcentaje": "01.1472",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P1",
+                        "color":"#1D45A7" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "1",
+                "votos": "3,400,166",
+                "porcentaje": "07.8125",
+                "ganador": false, 
+                "partidos": [
+                    {
+                        "idPartidos":"P2",
+                        "color":"#4F944B" 
+                    }
+                ] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "95,940",
+                "porcentaje": "00.2204",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P3",
+                        "color":"#E3C650" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "1,130,021",
+                "porcentaje": "02.5964",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P4",
+                        "color":"#AACC74" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "57,259",
+                "porcentaje": "00.1315",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P5",
+                        "color":"#D63F33" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "196,973",
+                "porcentaje": "00.4525",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P6",
+                        "color":"#E98932" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "567,283",
+                "porcentaje": "24.9448",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P7",
+                        "color":"#FBA715" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "8",
+                "votos": "603,671",
+                "porcentaje": "01.3870",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P8",
+                        "color":"#9E0634" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "44,306",
+                "porcentaje": "00.1018",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P9",
+                        "color":"#5D2C7F" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "62",
+                "votos": "11,313,890",
+                "porcentaje": "25.9960",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P1",
+                        "color":"#00A6B4" 
+                    },
+                    {
+                        "idPartidos":"P3",
+                        "color":"#00A6B4" 
+                    },
+                    {
+                        "idPartidos":"P6",
+                        "color":"#00A6B4" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "14",
+                "votos": "5,215,898",
+                "porcentaje": "11.9846",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"P2",
+                        "color":"#A83A28" 
+                    },
+                    {
+                        "idPartidos":"P4",
+                        "color":"#A83A28" 
+                    },
+                    {
+                        "idPartidos":"P6",
+                        "color":"#A83A28" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "210",
+                "votos": "18,220,501",
+                "porcentaje": "41.8654",
+                "ganador": true, 
+                "partidos": [
+					{
+                        "idPartidos":"P7",
+                        "color":"#2980B9" 
+                    },
+                    {
+                        "idPartidos":"P8",
+                        "color":"#2980B9" 
+                    },
+                    {
+                        "idPartidos":"P9",
+                        "color":"#2980B9" 
+					}
+				] 
+            },
+            {
+                "partido": 1.0,
+                "distritos": "0",
+                "votos": "403,108",
+                "porcentaje": "00.9262",
+                "ganador": false, 
+                "partidos": [
+					{
+                        "idPartidos":"C1",
+                        "color":"#FB155B" 
+                    }
+				] 
+            }
+        ],
+		"estadistica": {
+            "actas": {
+				"capturadas": {
+					"total": "145,378",
+					"porcentaje": "92.0935"
+				},
+				"contabilizadas": {
+					"total": "122,316",
+					"porcentaje": "77.4843"
+				}, 
+				"esperadas":{
+					"total": "157,859",
+					"porcentaje": "100.0000"
+				}
+            },
+			"actasContabilizadas": {
+				"noUrbanas" : "40,251",
+				"urbanas" : "82,065"
+            },
+            "listaNominal": {
+				"actasContabilizadas" : "69,262,067",
+                "oficial": "89,069,718",
+                "porcentaje": "71.4849",
+                "color": "#D2127E"
+            },
+            "participacionCiudadana": {
+               "porcentaje" : "62.8361",
+			   "votosCasillasBasicasCyE":{
+					"votos": "43,401,949",
+					"avance": "78.1937"
+			   },
+			    "votosCasillasEspeciales":{
+					"votos": "119,656",
+					"avance": "32.4591"
+			   },
+			   "totalVotos": "43,521,605"
+            }
+    }
+    }
+}

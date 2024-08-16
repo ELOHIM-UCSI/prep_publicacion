@@ -1,0 +1,320 @@
+{
+  "1": {
+    "nombrePartido": "PARTIDO ACCIÓN NACIONAL",
+    "nombreCortoPartido": "PARTIDO",
+    "imgPartido": "p1.png",
+    "colorPartido": "#838383"
+  },
+  "2": {
+    "nombrePartido": "PARTIDO REVOLUCIONARIO INSTITUCIONAL",
+    "nombreCortoPartido": "PRI",
+    "imgPartido": "p1.png",
+    "colorPartido": "#009640"
+  },
+  "3": {
+    "nombrePartido": "PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA",
+    "nombreCortoPartido": "PRD",
+    "imgPartido": "p1.png",
+    "colorPartido": "#EAC52F"
+  },
+  "4": {
+    "nombrePartido": "PARTIDO DEL TRABAJO",
+    "nombreCortoPartido": "PT",
+    "imgPartido": "p1.png",
+    "colorPartido": "#EB0028"
+  },
+  "5": {
+    "nombrePartido": "PARTIDO VERDE ECOLOGISTA DE MÉXICO",
+    "nombreCortoPartido": "PVEM",
+    "imgPartido": "p1.png",
+    "colorPartido": "#A0CE67"
+  },
+  "6": {
+    "nombrePartido": "MOVIMIENTO CIUDADANO",
+    "nombreCortoPartido": "MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#FF8200"
+  },
+  "8": {
+    "nombrePartido": "COMPROMISO POR PUEBLA",
+    "nombreCortoPartido": "CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#BF851D"
+  },
+  "9": {
+    "nombrePartido": "PACTO SOCIAL DE INTEGRACIÓN",
+    "nombreCortoPartido": "PSI",
+    "imgPartido": "p1.png",
+    "colorPartido": "#EFB704"
+  },
+  "10": {
+    "nombrePartido": "MOVIMIENTO REGENERACIÓN NACIONAL",
+    "nombreCortoPartido": "MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#C0311A"
+  },
+  "11": {
+    "nombrePartido": "PARTIDO ENCUENTRO SOCIAL",
+    "nombreCortoPartido": "PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#662781"
+  },
+  "12": {
+    "nombrePartido": "PARTIDO NUEVA ALIANZA",
+    "nombreCortoPartido": "PANAL",
+    "imgPartido": "p1.png",
+    "colorPartido": "#17B4B5"
+  },
+  "15": {
+    "nombrePartido": "PRD-MC-CPP",
+    "nombreCortoPartido": "PRD-MC-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#844206"
+  },
+  "16": {
+    "nombrePartido": "PRD-MC",
+    "nombreCortoPartido": "PRD-MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#844206"
+  },
+  "17": {
+    "nombrePartido": "PRD-CPP",
+    "nombreCortoPartido": "PRD-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#844206"
+  },
+  "18": {
+    "nombrePartido": "MC-CPP",
+    "nombreCortoPartido": "MC-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#844206"
+  },
+  "20": {
+    "nombrePartido": "PAN-PRD-MC-CPP",
+    "nombreCortoPartido": "PAN-PRD-MC-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "21": {
+    "nombrePartido": "PAN-PRD-MC",
+    "nombreCortoPartido": "PAN-PRD-MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "22": {
+    "nombrePartido": "PAN-PRD-CPP",
+    "nombreCortoPartido": "PAN-PRD-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "23": {
+    "nombrePartido": "PAN-MC-CPP",
+    "nombreCortoPartido": "PAN-MC-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "24": {
+    "nombrePartido": "PRD-MC-CPP",
+    "nombreCortoPartido": "PRD-MC-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "25": {
+    "nombrePartido": "PAN-PRD",
+    "nombreCortoPartido": "PAN-PRD",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "26": {
+    "nombrePartido": "PAN-MC",
+    "nombreCortoPartido": "PAN-MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "27": {
+    "nombrePartido": "PAN-CPP",
+    "nombreCortoPartido": "PAN-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "28": {
+    "nombrePartido": "PRD-MC",
+    "nombreCortoPartido": "PRD-MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "29": {
+    "nombrePartido": "PRD-CPP",
+    "nombreCortoPartido": "PRD-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "30": {
+    "nombrePartido": "MC-CPP",
+    "nombreCortoPartido": "MC-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "31": {
+    "nombrePartido": "JUNTOS HAREMOS HISTORIA EN PUEBLA (PT-PVEM-MORENA-PES)",
+    "nombreCortoPartido": "PT-PVEM-MORENA-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "32": {
+    "nombrePartido": "PT-PVEM-MORENA",
+    "nombreCortoPartido": "PT-PVEM-MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "33": {
+    "nombrePartido": "PT-PVEM-PES",
+    "nombreCortoPartido": "PT-PVEM-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "34": {
+    "nombrePartido": "PT-MORENA-PES",
+    "nombreCortoPartido": "PT-MORENA-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "35": {
+    "nombrePartido": "PVEM-MORENA-PES",
+    "nombreCortoPartido": "PVEM-MORENA-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "36": {
+    "nombrePartido": "PT-PVEM",
+    "nombreCortoPartido": "PT-PVEM",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "37": {
+    "nombrePartido": "PT-MORENA",
+    "nombreCortoPartido": "PT-MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "38": {
+    "nombrePartido": "PT-PES",
+    "nombreCortoPartido": "PT-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "39": {
+    "nombrePartido": "PVEM-MORENA",
+    "nombreCortoPartido": "PVEM-MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "40": {
+    "nombrePartido": "PVEM-PES",
+    "nombreCortoPartido": "PVEM-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "41": {
+    "nombrePartido": "MORENA-PES",
+    "nombreCortoPartido": "MORENA-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "45": {
+    "nombrePartido": "JUNTOS HAREMOS HISTORIA EN PUEBLA (PT-MORENA-PES)",
+    "nombreCortoPartido": "PT-MORENA-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#FF788F"
+  },
+  "46": {
+    "nombrePartido": "PT-MORENA",
+    "nombreCortoPartido": "PT-MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#FF788F"
+  },
+  "47": {
+    "nombrePartido": "PT-PES",
+    "nombreCortoPartido": "PT-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#FF788F"
+  },
+  "48": {
+    "nombrePartido": "MORENA-PES",
+    "nombreCortoPartido": "MORENA-PES",
+    "imgPartido": "p1.png",
+    "colorPartido": "#FF788F"
+  },
+  "49": {
+    "nombrePartido": "PAN-CPP",
+    "nombreCortoPartido": "PAN-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#BCBFE2"
+  },
+  "50": {
+    "nombrePartido": "PRI-CPP",
+    "nombreCortoPartido": "PRI-CPP",
+    "imgPartido": "p1.png",
+    "colorPartido": "#BFD8AD"
+  },
+  "51": {
+    "nombrePartido": "PAN-PRD-MC",
+    "nombreCortoPartido": "PAN-PRD-MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "52": {
+    "nombrePartido": "PAN-PRD",
+    "nombreCortoPartido": "PAN-PRD",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "53": {
+    "nombrePartido": "PAN-MC",
+    "nombreCortoPartido": "PAN-MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "54": {
+    "nombrePartido": "PRD-MC",
+    "nombreCortoPartido": "PRD-MC",
+    "imgPartido": "p1.png",
+    "colorPartido": "#3E75B3"
+  },
+  "55": {
+    "nombrePartido": "JUNTOS HAREMOS HISTORIA EN PUEBLA (PT-PVEM-MORENA)",
+    "nombreCortoPartido": "PT-PVEM-MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "56": {
+    "nombrePartido": "PT-PVEM",
+    "nombreCortoPartido": "PT-PVEM",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "57": {
+    "nombrePartido": "PT-MORENA",
+    "nombreCortoPartido": "PT-MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "58": {
+    "nombrePartido": "PVEM-MORENA",
+    "nombreCortoPartido": "PVEM-MORENA",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D28169"
+  },
+  "61": {
+    "nombrePartido": "Candidaturas no registradas",
+    "nombreCortoPartido": "CNR",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D8BC8F"
+  },
+  "62": {
+    "nombrePartido": "Votos nulos",
+    "nombreCortoPartido": "VN",
+    "imgPartido": "p1.png",
+    "colorPartido": "#D1D1D1"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "partidos": {
+    "P1": "P1",
+    "P2": "P2",
+    "P3": "P3",
+    "P4": "P4"
+  },
+  "especiales": [
+    {
+      "casilla": "13 Especial 1",
+      "correjido": "No",
+      "procedencia": 1,
+      "P1": 33,
+      "P2": 33,
+      "P3": 4,
+      "P4": 10,
+      "noReg": 0,
+      "nulos": 2,
+      "total": 82
+    },
+    {
+      "casilla": "54 Especial 1",
+      "correjido": "No",
+      "procedencia": 2,
+      "P1": 33,
+      "P2": 33,
+      "P3": 4,
+      "P4": 10,
+      "noReg": 0,
+      "nulos": 2,
+      "total": 82
+    },
+    {
+      "casilla": "90 Especial 1",
+      "correjido": "No",
+      "procedencia": 2,
+      "P1": 33,
+      "P2": 33,
+      "P3": 4,
+      "P4": 10,
+      "noReg": 0,
+      "nulos": 2,
+      "total": 82
+    },
+    {
+      "casilla": "137 Especial 1",
+      "correjido": "No",
+      "procedencia": 1,
+      "P1": 33,
+      "P2": 33,
+      "P3": 4,
+      "P4": 10,
+      "noReg": 0,
+      "nulos": 2,
+      "total": 82
+    },
+    {
+      "casilla": "189 Especial 1",
+      "correjido": "No",
+      "procedencia": 1,
+      "P1": 33,
+      "P2": 33,
+      "P3": 4,
+      "P4": 10,
+      "noReg": 0,
+      "nulos": 2,
+      "total": 82
+    }
+  ],
+  "resumenVotacion": {
+    "noRegistradas": {
+      "total": 0,
+      "porcentaje": "0.0000"
+    },
+    "nulos": {
+      "total": 10,
+      "porcentaje": "2.4390"
+    },
+    "acumulados": {
+      "total": 400,
+      "porcentaje": "97.5609"
+    },
+    "totalVotos": {
+      "total": 410,
+      "porcentaje": "100.0000"
+    }
+  }
+}

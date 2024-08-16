@@ -1,0 +1,215 @@
+{
+    "circunscripcion": "Todas",
+    "votosDistritos":{
+        "votosTotal": "24",
+        "votos": [
+            {
+                "distritos": "0",
+                "votos": "429,609",
+                "porcentaje": "09.6625",
+                "ganador": false,
+                "color":"#1D45A7",
+                "partidos": [
+					{
+                        "idPartidos":"P1",
+                        "color":"#1D45A7",
+                        "logo": "PES.png"
+					}
+				] 
+            },
+            {
+                "distritos": "1",
+                "votos": "198,591",
+                "porcentaje": "04.4666",
+                "ganador": false, 
+                "color":"#4F944B",
+                "partidos": [
+                    {
+                        "idPartidos":"P2",
+                        "color":"#4F944B", 
+                        "logo": "PES.png"
+                    }
+                ] 
+            },
+            {
+                "distritos": "0",
+                "votos": "85,822",
+                "porcentaje": "01.9302",
+                "ganador": false, 
+                "color":"#E3C650",
+                "partidos": [
+					{
+                        "idPartidos":"P3",
+                        "color":"#E3C650", 
+                        "logo": "PES.png"
+					}
+				] 
+            },
+            {
+                "distritos": "1",
+                "votos": "1,326,961",
+                "porcentaje": "29.8454",
+                "ganador": false, 
+                "color":"#00A6B4",
+                "partidos": [
+					{
+                        "idPartidos":"P1",
+                        "color":"#00A6B4", 
+                        "logo": "PES.png" 
+                    },
+                    {
+                        "idPartidos":"P3",
+                        "color":"#00A6B4", 
+                        "logo": "PES.png" 
+                    },
+                    {
+                        "idPartidos":"P6",
+                        "color":"#00A6B4", 
+                        "logo": "PES.png" 
+					}
+				] 
+            },
+            {
+                "distritos": "23",
+                "votos": "2,240,469",
+                "porcentaje": "50.3916",
+                "ganador": true, 
+                "color":"#2980B9",
+                "partidos": [
+					{
+                        "idPartidos":"P7",
+                        "color":"#2980B9", 
+                        "logo": "PES.png" 
+                    },
+                    {
+                        "idPartidos":"P8",
+                        "color":"#2980B9", 
+                        "logo": "PES.png" 
+                    },
+                    {
+                        "idPartidos":"P9",
+                        "color":"#2980B9", 
+                        "logo": "PES.png" 
+					}
+				] 
+            }
+        ],
+        "resumenVotacion": { 
+			"acumulados":
+			{
+                "total": "4,281,452",
+				"porcentaje": "96.1114"
+			}, 
+			"noRegistradas":{
+				"total": "5,353",
+				"porcentaje": "00.1203"
+			}, 
+			"nulos":{
+                "total": "159,308",
+				"porcentaje": "03.5830"
+			}, 
+			"totalVotos": {
+				"total": "4,446,113"
+			}
+        },
+        "votosMapa":{
+
+        }
+    },
+    "votosPartidosPoliticos":{
+        "votos": [
+            {   
+                "partido":"1",
+                "distritos": "5",
+                "votos": "499,288",
+                "porcentaje": "01.1472"
+            },
+            {
+                "partido":"1",
+                "distritos": "1",
+                "votos": "3,400,166",
+                "porcentaje": "07.8125"
+            },
+            {
+                "partido":"1",
+                "distritos": "0",
+                "votos": "95,940",
+                "porcentaje": "00.2204"
+            },
+            {
+                "partido":"1",
+                "distritos": "0",
+                "votos": "1,130,021",
+                "porcentaje": "02.5964"
+            },
+            {
+                "partido":"1",
+                "distritos": "0",
+                "votos": "57,259",
+                "porcentaje": "00.1315"
+            },
+            {
+                "partido":"1",
+                "distritos": "0",
+                "votos": "196,973",
+                "porcentaje": "00.4525"
+            },
+            {
+                "partido":"1",
+                "distritos": "0",
+                "votos": "567,283",
+                "porcentaje": "24.9448"
+            },
+            {
+                "partido":"1",
+                "distritos": "8",
+                "votos": "603,671",
+                "porcentaje": "01.3870"
+            },
+            {
+                "partido":"1",
+                "distritos": "0",
+                "votos": "44,306",
+                "porcentaje": "00.1018"
+            },
+            {
+                "partido":"1",
+                "distritos": "62",
+                "votos": "11,313,890",
+                "porcentaje": "25.9960"
+            },
+            {
+                "partido":"1",
+                "distritos": "14",
+                "votos": "5,215,898",
+                "porcentaje": "11.9846"
+            },
+            {
+                "partido":"1",
+                "distritos": "210",
+                "votos": "18,220,501",
+                "porcentaje": "41.8654"
+            }
+        ],
+        "resumenVotacion": { 
+			"acumulados":
+			{
+                "total": "41,748,301",
+				"porcentaje": "95.1114"
+			}, 
+			"noRegistradas":{
+				"total": "48,514",
+				"porcentaje": "00.1114"
+			}, 
+			"nulos":{
+                "total": "1,724,787",
+				"porcentaje": "03.9630"
+			}, 
+			"totalVotos": {
+				"total": "43,521,605"
+			}
+        }
+    }
+
+
+}

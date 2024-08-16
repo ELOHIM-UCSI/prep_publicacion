@@ -1,0 +1,38 @@
+{
+    "actas": {
+        "capturadas": {
+            "total": "145,378",
+            "porcentaje": "92.0935"
+        },
+        "contabilizadas": {
+            "total": "122,316",
+            "porcentaje": "77.4843"
+        }, 
+        "esperadas":{
+            "total": "157,859",
+            "porcentaje": "100.0000"
+        }
+    },
+    "actasContabilizadas": {
+        "noUrbanas" : "40,251",
+        "urbanas" : "82,065"
+    },
+    "listaNominal": {
+        "actasContabilizadas" : "69,262,067",
+        "oficial": "89,069,718",
+        "porcentaje": "71.4849",
+        "color": "#D2127E"
+    },
+    "participacionCiudadana": {
+       "porcentaje" : "62.8361",
+       "votosCasillasBasicasCyE":{
+            "votos": "43,401,949",
+            "avance": "78.1937"
+       },
+        "votosCasillasEspeciales":{
+            "votos": "119,656",
+            "avance": "32.4591"
+       },
+       "totalVotos": "43,521,605"
+    }
+}

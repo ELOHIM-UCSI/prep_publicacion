@@ -1,0 +1,193 @@
+{
+
+    "distrito1":{
+        "actas": {
+            "capturadas": {
+                "total": "1",
+                "porcentaje": "10"
+            },
+            "contabilizadas": {
+                "total": "1",
+                "porcentaje": "50"
+            }, 
+            "esperadas":{
+                "total": "1",
+                "porcentaje": "20"
+            }
+        },
+        "actasContabilizadas": {
+            "noUrbanas" : "40,251",
+            "urbanas" : "82,065"
+        },
+        "listaNominal": {
+            "actasContabilizadas" : "1",
+            "oficial": "1",
+            "porcentaje": "1",
+            "color": "#D2127E"
+        },
+        "participacionCiudadana": {
+           "porcentaje" : "1",
+           "votosCasillasBasicasCyE":{
+                "votos": "43,401,949",
+                "avance": "78.1937"
+           },
+            "votosCasillasEspeciales":{
+                "votos": "119,656",
+                "avance": "32.4591"
+           },
+           "totalVotos": "43,521,605"
+        }
+    },
+    "distrito2":{
+        "actas": {
+            "capturadas": {
+                "total": "2",
+                "porcentaje": "92.0935"
+            },
+            "contabilizadas": {
+                "total": "2",
+                "porcentaje": "77.4843"
+            }, 
+            "esperadas":{
+                "total": "2",
+                "porcentaje": "100.0000"
+            }
+        },
+        "actasContabilizadas": {
+            "noUrbanas" : "40,251",
+            "urbanas" : "82,065"
+        },
+        "listaNominal": {
+            "actasContabilizadas" : "2",
+            "oficial": "2",
+            "porcentaje": "2",
+            "color": "#D2127E"
+        },
+        "participacionCiudadana": {
+           "porcentaje" : "62.8361",
+           "votosCasillasBasicasCyE":{
+                "votos": "43,401,949",
+                "avance": "78.1937"
+           },
+            "votosCasillasEspeciales":{
+                "votos": "119,656",
+                "avance": "32.4591"
+           },
+           "totalVotos": "43,521,605"
+        }
+    },
+    "distrito3":{
+        "actas": {
+            "capturadas": {
+                "total": "3",
+                "porcentaje": "93.0935"
+            },
+            "contabilizadas": {
+                "total": "3",
+                "porcentaje": "77.4843"
+            }, 
+            "esperadas":{
+                "total": "3",
+                "porcentaje": "100.0000"
+            }
+        },
+        "actasContabilizadas": {
+            "noUrbanas" : "40,351",
+            "urbanas" : "83,065"
+        },
+        "listaNominal": {
+            "actasContabilizadas" : "3",
+            "oficial": "3",
+            "porcentaje": "3",
+            "color": "#D3137E"
+        },
+        "participacionCiudadana": {
+           "porcentaje" : "63.8361",
+           "votosCasillasBasicasCyE":{
+                "votos": "43,401,949",
+                "avance": "78.1937"
+           },
+            "votosCasillasEspeciales":{
+                "votos": "119,656",
+                "avance": "33.4591"
+           },
+           "totalVotos": "43,531,605"
+        }
+    },
+    "distrito4":{
+        "actas": {
+            "capturadas": {
+                "total": "4",
+                "porcentaje": "94.0935"
+            },
+            "contabilizadas": {
+                "total": "4",
+                "porcentaje": "77.4843"
+            }, 
+            "esperadas":{
+                "total": "4",
+                "porcentaje": "100.0000"
+            }
+        },
+        "actasContabilizadas": {
+            "noUrbanas" : "40,451",
+            "urbanas" : "84,065"
+        },
+        "listaNominal": {
+            "actasContabilizadas" : "4",
+            "oficial": "4",
+            "porcentaje": "4",
+            "color": "#D4147E"
+        },
+        "participacionCiudadana": {
+           "porcentaje" : "64.8361",
+           "votosCasillasBasicasCyE":{
+                "votos": "43,401,949",
+                "avance": "78.1937"
+           },
+            "votosCasillasEspeciales":{
+                "votos": "119,656",
+                "avance": "34.4591"
+           },
+           "totalVotos": "43,541,605"
+        }
+    },
+    "distrito5":{
+        "actas": {
+            "capturadas": {
+                "total": "5",
+                "porcentaje": "95.0935"
+            },
+            "contabilizadas": {
+                "total": "5",
+                "porcentaje": "77.4843"
+            }, 
+            "esperadas":{
+                "total": "5",
+                "porcentaje": "100.0000"
+            }
+        },
+        "actasContabilizadas": {
+            "noUrbanas" : "40,551",
+            "urbanas" : "85,065"
+        },
+        "listaNominal": {
+            "actasContabilizadas" : "5",
+            "oficial": "5",
+            "porcentaje": "5",
+            "color": "#D5157E"
+        },
+        "participacionCiudadana": {
+           "porcentaje" : "65.8361",
+           "votosCasillasBasicasCyE":{
+                "votos": "43,401,949",
+                "avance": "78.1937"
+           },
+            "votosCasillasEspeciales":{
+                "votos": "119,656",
+                "avance": "35.4591"
+           },
+           "totalVotos": "43,551,605"
+        }
+    } 
+}

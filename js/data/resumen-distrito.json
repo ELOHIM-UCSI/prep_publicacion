@@ -1,0 +1,128 @@
+{
+    "partidos":  [
+        {
+            "pe": "P1",
+            "distritos": 5,
+            "votos": "499,288",
+            "porcentaje": "01.1472",
+            "color": "#11FFBB",
+            "ganador": false
+        },
+        {
+            "pe": "P2",
+            "distritos": 1,
+            "votos": "3,400,166",
+            "porcentaje": "07.8125",
+            "color": "#B6587D",
+            "ganador": false
+        },
+        {
+            "pe": "P3",
+            "distritos": 0,
+            "votos": "95,940",
+            "porcentaje": "00.2204",
+            "color": "#986574",
+            "ganador": false
+        },
+        {
+            "pe": "P4",
+            "distritos": 0,
+            "votos": "1,130,021",
+            "porcentaje": "02.5964",
+            "color": "#336677",
+            "ganador": false
+        },
+        {
+            "pe": "P5",
+            "distritos": 0,
+            "votos": "57,259",
+            "porcentaje": "00.1315",
+            "color": "#FFAACC",
+            "ganador": false
+        },
+        {
+            "pe": "P6",
+            "distritos": 0,
+            "votos": "196,973",
+            "porcentaje": "00.4525",
+            "color": "#FF0022",
+            "ganador": false
+        },
+        {
+            "pe": "P7",
+            "distritos": 0,
+            "votos": "567,283",
+            "porcentaje": "01.3034",
+            "color": "#FFDD00",
+            "ganador": false
+        },
+        {
+            "pe": "P8",
+            "distritos": 8,
+            "votos": "603,671",
+            "porcentaje": "01.3870",
+            "color": "#986532",
+            "ganador": true
+        },
+        {
+            "pe": "P9",
+            "distritos": 0,
+            "votos": "44,306",
+            "porcentaje": "00.1018",
+            "color": "#125689",
+            "ganador": false
+        },
+        {
+            "pe": "P1",
+            "distritos": 5,
+            "votos": "499,288",
+            "porcentaje": "01.1472",
+            "color": "#96A521",
+            "ganador": false
+        },
+        {
+            "pe": "P1",
+            "distritos": 5,
+            "votos": "499,288",
+            "porcentaje": "01.1472",
+            "color": "#986574",
+            "ganador": false
+        },
+        {
+            "pe": "P2",
+            "distritos": 1,
+            "votos": "3,400,166",
+            "porcentaje": "07.8125",
+            "color": "#C32657",
+            "ganador": false
+        },
+        {
+            "pe": "P3",
+            "distritos": 0,
+            "votos": "95,940",
+            "porcentaje": "00.2204",
+            "color": "#FBCCBF",
+            "ganador": false
+        }
+    ],
+    "votos": {
+        "total": "460,639",
+        "porcentaje": "100.0000",
+        "entidad": {
+        "numero": "444,187",
+        "porcentaje": "96.4284"
+        },
+        "extranjero": {
+        "numero": "2,372",
+        "porcentaje": "0.5149"
+        },
+        "candNoReg": {
+        "numero": "1,134",
+        "porcentaje": "0.2461"
+        },
+        "nulos": {
+        "numero": "12,946",
+        "porcentaje": "2.8104"
+        }
+    }
+}

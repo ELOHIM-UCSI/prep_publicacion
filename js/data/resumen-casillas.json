@@ -1,0 +1,46 @@
+[
+    {
+        "casilla": "821 Básica",
+        "coalicion1": "13",
+        "coalicion2": "0",
+        "coalicion3": "1",
+        "coalicion4": "0",
+        "candidaturasNoRegistradas": "0",
+        "votosNulos": "24",
+        "total": "392",
+        "observaciones": null
+    },
+    {
+        "casilla": "821 Contigua 1",
+        "coalicion1": "12",
+        "coalicion2": "4",
+        "coalicion3": "1",
+        "coalicion4": "1",
+        "candidaturasNoRegistradas": "0",
+        "votosNulos": "14",
+        "total": "351",
+        "observaciones": null
+    },
+    {
+        "casilla": "821 Contigua 2",
+        "coalicion1": "11",
+        "coalicion2": "4",
+        "coalicion3": "0",
+        "coalicion4": "3",
+        "candidaturasNoRegistradas": "0",
+        "votosNulos": "26",
+        "total": "396",
+        "observaciones": null
+    },
+    {
+        "casilla": "821 Contigua 3",
+        "coalicion1": "9",
+        "coalicion2": "2",
+        "coalicion3": "0",
+        "coalicion4": "2",
+        "candidaturasNoRegistradas": "1",
+        "votosNulos": "13",
+        "total": "373",
+        "observaciones": null
+    }
+]

@@ -1,0 +1,256 @@
+{
+  "candidatos": [
+    {
+      "nombre": "Raúl José Mejía González",
+      "sigla": "RJMG",
+      "ganador": false,
+      "votos": {
+        "total": {
+          "numero": "21,638",
+          "porcentaje": "4.6973"
+        },
+        "entidad": {
+          "numero": "21,638",
+          "porcentaje": "4.6973"
+        },
+        "extranjero": {
+          "numero": "0",
+          "porcentaje": "0.0000"
+        }
+      },
+      "partidos": {
+        "nombre": "P1",
+        "sigla": "P1"
+      }
+    },
+    {
+      "nombre": "Yuceli Avalia Hernández",
+      "ganador": false,
+      "sigla": "YAH",
+      "votos": {
+        "total": {
+          "numero": "55,059",
+          "porcentaje": "1.9527"
+        },
+        "entidad": {
+          "numero": "54,994",
+          "porcentaje": "11.9527"
+        },
+        "extranjero": {
+          "numero": "65",
+          "porcentaje": "2.7403"
+        }
+      },
+      "partidos": {
+        "nombre": "P2",
+        "sigla": "P2"
+      }
+    },
+    {
+      "nombre": "Francisco Javier Zapata Pérez",
+      "ganador": false,
+      "sigla": "FJZP",
+      "votos": {
+        "total": {
+          "numero": "4,525",
+          "porcentaje": "0.9823"
+        },
+        "entidad": {
+          "numero": "4,525",
+          "porcentaje": "0.9823"
+        },
+        "extranjero": {
+          "numero": "0",
+          "porcentaje": "0"
+        }
+      },
+      "partidos": [
+        {
+          "nombre": "P3",
+          "sigla": "P3"
+        }
+      ]
+    },
+    {
+      "nombre": "Martha Fernanda Pérez Nuñez",
+      "ganador": true,
+      "sigla": "MFPN",
+      "votos": {
+        "total": {
+          "numero": "178,107",
+          "porcentaje": "38.6652"
+        },
+        "entidad": {
+          "numero": "176,264",
+          "porcentaje": "38.6652"
+        },
+        "extranjero": {
+          "numero": "1,843",
+          "porcentaje": "77.6981"
+        }
+      },
+      "partidos": [
+        {
+          "nombre": "P4",
+          "sigla": "P4"
+        },
+        {
+          "nombre": "P5",
+          "sigla": "P5"
+        },
+        {
+          "nombre": "P6",
+          "sigla": "P6"
+        },
+        {
+          "nombre": "P7",
+          "sigla": "P7"
+        },
+        {
+          "nombre": "P8",
+          "sigla": "P8"
+        },
+        {
+          "nombre": "P9",
+          "sigla": "P9"
+        },
+        {
+          "nombre": "P10",
+          "sigla": "P10"
+        },
+        {
+          "nombre": "P11",
+          "sigla": "P11"
+        }
+      ]
+    },
+    {
+      "nombre": "Manuel Humberto Cota Jiménez",
+      "sigla": "MHCJ",
+      "ganador": false,
+      "votos": {
+        "total": {
+          "numero": "123,572",
+          "porcentaje": "26.8262"
+        },
+        "entidad": {
+          "numero": "123,103",
+          "porcentaje": "26.8262"
+        },
+        "extranjero": {
+          "numero": "464",
+          "porcentaje": "19.5615"
+        }
+      },
+      "partidos": [
+        {
+          "nombre": "P12",
+          "sigla": "P12"
+        },
+        {
+          "nombre": "P13",
+          "sigla": "P13"
+        },
+        {
+          "nombre": "P14",
+          "sigla": "P14"
+        }
+      ]
+    },
+    {
+      "nombre": "Mar Solorzano Resendiz",
+      "ganador": false,
+      "sigla": "MSR",
+      "votos": {
+        "total": {
+          "numero": "6,579",
+          "porcentaje": "1.4282"
+        },
+        "entidad": {
+          "numero": "6,579",
+          "porcentaje": "1.4282"
+        },
+        "extranjero": {
+          "numero": "0",
+          "porcentaje": "0.0000"
+        }
+      },
+      "partidos": [
+        {
+          "nombre": "CI1",
+          "sigla": "CI1"
+        }
+      ]
+    },
+    {
+      "nombre": "Antonio Ayón Bañuelos",
+      "ganador": false,
+      "sigla": "AAB",
+      "votos": {
+        "total": {
+          "numero": "2,262",
+          "porcentaje": "0.4910"
+        },
+        "entidad": {
+          "numero": "2,262",
+          "porcentaje": "0.4910"
+        },
+        "extranjero": {
+          "numero": "0",
+          "porcentaje": "0.0000"
+        }
+      },
+      "partidos": [
+        {
+          "nombre": "CI2",
+          "sigla": "CI2"
+        }
+      ]
+    },
+    {
+      "nombre": "Hilario Ramírez Villanueva",
+      "ganador": false,
+      "sigla": "HRV",
+      "votos": {
+        "total": {
+          "numero": "54,817",
+          "porcentaje": "11.9002"
+        },
+        "entidad": {
+          "numero": "54,817",
+          "porcentaje": "11.9002"
+        },
+        "extranjero": {
+          "numero": "0",
+          "porcentaje": "0.0000"
+        }
+      },
+      "partidos": [
+        {
+          "nombre": "CI3",
+          "sigla": "CI3"
+        }
+      ]
+    }
+  ],
+  "votos": {
+    "total": "460,639",
+    "porcentaje": "100.0000",
+    "entidad": {
+      "numero": "444,187",
+      "porcentaje": "96.4284"
+    },
+    "extranjero": {
+      "numero": "2,372",
+      "porcentaje": "0.5149"
+    },
+    "candNoReg": {
+      "numero": "1,134",
+      "porcentaje": "0.2461"
+    },
+    "nulos": {
+      "numero": "12,946",
+      "porcentaje": "2.8104"
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+    "votosCandidatura": [
+        {
+            "nombre": "Maribel Guadalupe",
+            "apellidos": "Villaseñor Dávila",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P1",
+                    "total": "11,174"
+                }
+            ],
+            "votos": "11,174",
+            "porcentaje": "06.6337"
+        },
+        {
+            "nombre": "Josué",
+            "apellidos": "Lira Gil",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P2",
+                    "total": "6,853"
+                }
+            ],
+            "votos": "6,853",
+            "porcentaje": "04.0684"
+        },
+        {
+            "nombre": "Elia Nancy",
+            "apellidos": "Hernández Anaya",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P3",
+                    "total": "3,281"
+                }
+            ],
+            "votos": "3,281",
+            "porcentaje": "01.9478"
+        },
+        {
+            "nombre": "Laura Sandra",
+            "apellidos": "Morales Ruiz",
+            "ganador": false,
+            "distritos": [
+                {
+                    "pe": "P4",
+                    "total": "1,010"
+                },
+                {
+                    "pe": "P5",
+                    "total": "3,719"
+                },
+                {
+                    "pe": "P6",
+                    "total": "14,220"
+                }
+            ],
+            "votos": "40,142",
+            "porcentaje": "23.8314"
+        },
+        {
+            "nombre": "Erika Vanessa",
+            "apellidos": "del Castillo Ibarra",
+            "ganador": true,
+            "distritos": [
+                {
+                    "pe": "P7",
+                    "total": "3,929"
+                },
+                {
+                    "pe": "P8",
+                    "total": "4,449"
+                },
+                {
+                    "pe": "P9",
+                    "total": "85,917"
+                }
+            ],
+            "votos": "100,861",
+            "porcentaje": "59.8791"
+        }
+    ],
+    "resumenVotacion": { 
+        "acumulados":
+        {
+            "total": "1,434",
+            "porcentaje": "96.1114"
+        }, 
+        "noRegistradas":{
+            "total": "1",
+            "porcentaje": "00.1114"
+        }, 
+        "nulos":{
+            "total": "77",
+            "porcentaje": "03.9630"
+        }, 
+        "totalVotos": {
+            "total": "1,512",
+            "porcentaje": "100.00000"
+        }
+    },
+    "votosPPyCI": [
+        {
+            "partido": "P1",
+            "votosPartido": "11,174",
+            "votosCoalicion": "531",
+            "porcentaje": "06.6337",
+            "totalVotos": "14,751"
+        },
+        {
+            "partido": "P2",
+            "votosPartido": "11,174",
+            "porcentaje": "04.0684",
+            "totalVotos": "11,174"
+        },
+        {
+            "partido": "P3",
+            "votosPartido": "20,635",
+            "votosCoalicion": "584",
+            "porcentaje": "01.9478",
+            "totalVotos": "21,219"
+        },
+        {
+            "partido": "P4",
+            "votosPartido": "6,853",
+            "porcentaje": "06.6337",
+            "totalVotos": "6,853"
+        },
+        {
+            "partido": "P5",
+            "votosPartido": "4,871",
+            "votosCoalicion": "1,835",
+            "porcentaje": "04.0684",
+            "totalVotos": "6,706"
+        },
+        {
+            "partido": "P6",
+            "votosPartido": "3,719",
+            "votosCoalicion": "453",
+            "porcentaje": "01.9478",
+            "totalVotos": "4,172"
+        },
+        {
+            "partido": "P7",
+            "votosPartido": "3,281",
+            "votosCoalicion": "",
+            "porcentaje": "06.6337",
+            "totalVotos": "3,281"
+        },
+        {
+            "partido": "P8",
+            "votosPartido": "85,917",
+            "votosCoalicion": "2,103",
+            "porcentaje": "04.0684",
+            "totalVotos": "88,020"
+        },
+        {
+            "partido": "P9",
+            "votosPartido": "4,449",
+            "votosCoalicion": "1,686",
+            "porcentaje": "01.9478",
+            "totalVotos": "6,135"
+        }
+    ],
+    "votosCasillas": [
+        {
+            "casilla": "821 Básica",
+            "candidaturas": {
+                "P1": "13",
+                "P2": "0",
+                "P3": "1",
+                "P4": "0"
+            },
+            "candidaturasNoRegistradas": "0",
+            "votosNulos": "24",
+            "total": "392",
+            "observaciones": null,
+            "procedencia": 0
+        },
+        {
+            "casilla": "821 Contigua 1",
+            "candidaturas": {
+                "P1": "12",
+                "P2": "4",
+                "P3": "1",
+                "P4": "1"
+            },
+            "candidaturasNoRegistradas": "0",
+            "votosNulos": "14",
+            "total": "351",
+            "observaciones": null,
+            "procedencia": 1
+        },
+        {
+            "casilla": "821 Contigua 2",
+            "candidaturas": {
+                "P1": "11",
+                "P2": "4",
+                "P3": "0",
+                "P4": "3"
+            },
+            "candidaturasNoRegistradas": "0",
+            "votosNulos": "26",
+            "total": "396",
+            "observaciones": null,
+            "procedencia": 2
+        },
+        {
+            "casilla": "821 Contigua 3",
+            "candidaturas": {
+                "P1": "9",
+                "P2": "2",
+                "P3": "0",
+                "P4": "2"
+            },
+            "candidaturasNoRegistradas": "1",
+            "votosNulos": "13",
+            "total": "373",
+            "observaciones": null,
+            "procedencia": 0
+        }
+    ],
+    "estadisticasCasilla": [
+        {
+            "casilla": "821",
+            "tipoCasilla": "Básica",
+            "porcentaje": "68.1739",
+            "totalListaNominal": "575"
+        },
+        {
+            "casilla": "821",
+            "tipoCasilla": "Contigua 1",
+            "porcentaje": "61.0434",
+            "totalListaNominal": "575"
+        },
+        {
+            "casilla": "821",
+            "tipoCasilla": "Contigua 2",
+            "porcentaje": "68.8695",
+            "totalListaNominal": "575"
+        },
+        {
+            "casilla": "821",
+            "tipoCasilla": "Contigua 3",
+            "porcentaje": "64.8695",
+            "totalListaNominal": "575"
+        }
+    ],
+    "estadisticas": {
+        "listaNominal": {
+            "actasContabilizadas": "651"
+        },
+        "participacionCiudadana": {
+            "porcentaje": "58.3717"
+        }
+    },
+    "candidaturas": {
+        "P1": "P1",
+        "P2": "P2",
+        "P3": "P3",
+        "P4": "P4"
+    }
+}

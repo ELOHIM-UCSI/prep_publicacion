@@ -1,0 +1,90 @@
+{
+  "distritos": [
+    {
+      "valor": 1,
+      "etiqueta": "Distrito 1"
+    },
+    {
+      "valor": 2,
+      "etiqueta": "Distrito 2"
+    },
+    {
+      "valor": 3,
+      "etiqueta": "Distrito 3"
+    },
+    {
+      "valor": 4,
+      "etiqueta": "Distrito 4"
+    },
+    {
+      "valor": 5,
+      "etiqueta": "Distrito 5"
+    },
+    {
+      "valor": 6,
+      "etiqueta": "Distrito 6"
+    },
+    {
+      "valor": 7,
+      "etiqueta": "Distrito 7"
+    },
+    {
+      "valor": 8,
+      "etiqueta": "Distrito 8"
+    },
+    {
+      "valor": 9,
+      "etiqueta": "Distrito 9"
+    },
+    {
+      "valor": 10,
+      "etiqueta": "Distrito 10"
+    },
+    {
+      "valor": 11,
+      "etiqueta": "Distrito 11"
+    },
+    {
+      "valor": 12,
+      "etiqueta": "Distrito 12"
+    },
+    {
+      "valor": 13,
+      "etiqueta": "Distrito 13"
+    },
+    {
+      "valor": 14,
+      "etiqueta": "Distrito 14"
+    },
+    {
+      "valor": 15,
+      "etiqueta": "Distrito 15"
+    },
+    {
+      "valor": 16,
+      "etiqueta": "Distrito 16"
+    }
+  ],
+  "municipios": [
+    {
+      "valor": "Comondu",
+      "etiqueta": "Comondú"
+    },
+    {
+      "valor": "Mulege",
+      "etiqueta": "Mulegé"
+    },
+    {
+      "valor": "LaPaz",
+      "etiqueta": "La Paz"
+    },
+    {
+      "valor": "LosCabos",
+      "etiqueta": "Los Cabos"
+    },
+    {
+      "valor": "Loreto",
+      "etiqueta": "Loreto"
+    }
+  ]
+}
